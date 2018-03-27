@@ -1,7 +1,5 @@
 # Tugas 4 PHP-Fundamental
 
-PHP Fundamental
-
 ## Tampilan Awal
 
 ![prev](https://github.com/algzl17/PHP-Fundamental/blob/master/view.png)
